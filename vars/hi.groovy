@@ -1,3 +1,3 @@
-def call () {
-sh "echo vijay"
+def call (){
+sh 'echo Hi cheshu'
 }
